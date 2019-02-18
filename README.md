@@ -25,7 +25,7 @@ These instructions will tell you how to set up to run the code locally with your
 
 Use `pip` to install the dependencies listed in the file `requirements.txt`.
 ```sh
-$ pip install -f requirements.txt
+$ pip install -r requirements.txt
 ```
 ##### Alert sound
 Feel free to download any `.wav` and use as your alert by simply replacing the file `untitled.wav` with yours.
